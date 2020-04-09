@@ -10,6 +10,6 @@
   
 ## Setup
   - Importer le projet dans IntelliJ Idea : File > New > Project from Version Control > Git > Rentrer l'url du dépôt
-  - Implémenter la méthode dans java > WordWrap
-  - Jouer les tests dans java > WordWrapTest
+  - Implémenter la méthode dans java > 6QuiPrend
+  - Jouer les tests dans java > 6QuiPrendTest
   - Pousser votre pull request sur le dépôt :  git push -u origin <VOTRE_NOM_ET_PRENOM>
