@@ -10,7 +10,7 @@
   
 ## Setup
   - Forker le projet
-  - Importer le projet dans IntelliJ Idea : File > New > Project from Version Control > Git > Rentrer l'url du dépôt
+  - Importer le projet forké dans IntelliJ Idea : File > New > Project from Version Control > Git > Rentrer l'url du dépôt
   - Implémenter la méthode dans java > 6QuiPrend
   - Jouer les tests dans java > 6QuiPrendTest
-  - Pousser votre pull request sur le dépôt
+  - Pousser votre pull request sur le dépôt avec votre nom dans le nom de la branche
