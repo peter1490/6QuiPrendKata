@@ -9,7 +9,8 @@
   - les autres cartes valent 1 tête de bœufs chacune
   
 ## Setup
+  - Forker le projet
   - Importer le projet dans IntelliJ Idea : File > New > Project from Version Control > Git > Rentrer l'url du dépôt
   - Implémenter la méthode dans java > 6QuiPrend
   - Jouer les tests dans java > 6QuiPrendTest
-  - Pousser votre pull request sur le dépôt :  git push -u origin <VOTRE_NOM_ET_PRENOM>
+  - Pousser votre pull request sur le dépôt
