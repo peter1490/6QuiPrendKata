@@ -5,9 +5,13 @@ public class SixQuiPrend {
     private static final int NB_CARD_MAX = 104;
 
     public static int findNumberOfBullHeads(int value) {
-        // TODO
+        if(value == 55) return 7;
 
-        return 0;
+        int bull_heads = 1;
+
+        if(value % 5 == 0) bull_heads += 1;
+        if(value % 10 == 0) bull_heads += 1;
+        return (value % 11 == 0 && value != 100)? bull_heads += 4 : bull_heads;
     }
 
     public static void gameLoop() {
